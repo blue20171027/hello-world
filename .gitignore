@@ -1,0 +1,4 @@
+*.dll
+.ignore
+/obj
+/bin
